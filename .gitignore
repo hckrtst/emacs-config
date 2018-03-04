@@ -9,3 +9,9 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+.org-id-locations
+
+eshell/
+
+bookmarks
