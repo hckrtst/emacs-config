@@ -1,0 +1,10 @@
+ls
+utils/magic code/del_dups_linked_list cpp 
+ls
+cd code
+ls
+ranger del_dups_linked_list/
+dired
+dired .
+ls
+whoami

@@ -1,0 +1,12 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("(eintr) Top"
+ (front-context-string . "\nAn Introduction")
+ (rear-context-string . "ace,  Up: (dir)\n")
+ (position . 1550)
+ (filename . "/Applications/Emacs.app/Contents/Resources/info/eintr")
+ (info-node . "Top")
+ (handler . Info-bookmark-jump))
+)
